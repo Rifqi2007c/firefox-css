@@ -1,0 +1,236 @@
+@-moz-document url(about:home), url(about:newtab), url(about:privatebrowsing) {
+    .click-target-container *, .top-sites-list * {
+        color: #fff !important ;
+        text-shadow: 2px 2px 2px #222 !important ;
+    }
+
+    body::before {
+        content: "" ;
+        z-index: -1 ;
+        position: fixed ;
+        top: 0 ;
+        left: 0 ;
+        background: url(img/07.jpg) center ;
+        background-size: cover ;
+        width: 100vw ;
+        height: 100vh ;
+    }
+    
+}
+
+@-moz-document url(about:home), url(about:newtab) {
+    .search-wrapper .logo-and-wordmark .logo{
+  display: inline-block !important;
+  height: 130px !important;
+  width: 130px !important;
+  background: url(img/mayuratv.png) !important;
+    background-size: auto !important;
+  background-size: 130px !important;
+  background-repeat: no-repeat;
+    }
+}
+
+@-moz-document url(about:home), url(about:newtab) {
+    .search-wrapper .logo-and-wordmark .wordmark{
+        background: url(img/Helloworld.png) !important;
+     background-size: auto !important;
+     background-size: 300px !important;
+     display: inline-block !important;
+     height: 75px !important;
+     width: 300px !important;
+     background-repeat: no-repeat !important;
+     background-color: #27222778 !important;
+     backdrop-filter: blur(1px) !important;
+    }
+}
+    
+@-moz-document url(about:home), url(about:newtab) {
+    .top-site-outer .tile {
+        background: #27222778 !important;
+        border: 4px solid #788ed3 !important;
+        backdrop-filter: blur(1px) !important;
+    } 
+}
+
+@-moz-document url(about:home), url(about:newtab) {
+    .top-site-outer .top-site-icon{
+        background-color: transparent !important;
+    }
+}
+
+@-moz-document url(about:home), url(about:newtab) {
+    .search-wrapper .search-handoff-button, .search-wrapper input {
+        background: #27222778 var(--newtab-search-icon) 16px center no-repeat !important;
+        background-size: 24px;
+        padding-inline-start: 52px;
+        padding-inline-end: 10px;
+        padding-block: 0;
+        width: 100%;
+        box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+        border: 4px solid #788ed3 !important;
+        border-radius: 8px;
+        backdrop-filter: blur(1px) !important;
+
+    }
+}
+
+/*YT*/
+@-moz-document domain("youtube.com") {
+    yt-icon.ytd-topbar-logo-renderer,
+    yt-icon.ytd-logo {fill-opacity: 0;
+    background: url(chrome/yt.png) center center/100% no-repeat !important;
+    max-width: 100%; max-height: 100px;
+    position: relative !important;}
+
+}
+
+@-moz-document domain("youtube.com") {
+    ytd-app{
+        background: transparent !important;
+        background-image: url(img/6.jpeg) !important;
+    }
+}
+
+@-moz-document domain("youtube.com") {
+    #chips-wrapper.ytd-feed-filter-chip-bar-renderer {
+        background-color: transparent !important;
+        background-image: url(img/6.jpeg) !important;
+    }
+}
+
+@-moz-document domain("youtube.com") {
+#background.ytd-masthead {
+    background: url(img/6.jpeg) !important;
+}
+}
+
+@-moz-document domain("youtube.com") {
+#guide-content.ytd-app {
+    background: url(img/6.jpeg) !important;
+}
+}
+
+/*google*/
+@-moz-document domain("google.com") {
+    body.srp, body{
+        background: #002b36 !important;
+    }
+
+    .appbar{
+        background: #002b36 !important;
+    }
+
+    .rsGxI.Ww4FFb, .Ww4FFb{
+        background: #002b36 !important;
+    }
+
+    .sfbg{
+        background: #002b36 !important;
+    }
+
+    .GKS7s {
+        background: #003746 !important;
+        border: 2px solid #658c92 !important;
+    }
+
+    .RNNXgb {
+        background: #003746 !important;
+        border: 2px #658c92 !important;
+    }
+
+    .I6TXqe {
+        background: #003746 !important;
+        border: 2px #658c92 !important;
+    }
+
+    .FalWJb{
+        background: #002b36 !important;
+        border: 2px  #658c92 !important;
+    }
+
+    .k8XOCe {
+        background-color: #003746 !important;
+        border: 2px #658c92 !important;
+
+    }
+
+    .dG2XIf{
+        background-color: #003746 !important;
+        border: 2px #658c92 !important;
+    }
+}
+
+@-moz-document domain(reddit.com) {
+._31N0dvxfpsO6Ur5AKx4O5d,
+._3ozFtOe6WpJEMUtxDOIvtU,
+._1gVVmSnHZpkUgVShsn7-ua,
+.theme-beta,
+._29IbETWb5VVDcfk_-GumWz {
+background-attachment: fixed; background-image: url("https://i.imgur.com/JrcxxQ8.gif") !important; /*black space*/
+background-size: cover !important;}
+
+/* ----------- global color schemes ----------- */
+/* these were all 🟠 */
+*, :root {
+--color-global-orangered: #5268bb;
+--color-brand-background: #5268bb !important;
+--color-brand-background-hover: #91DFF0 !important;
+--color-global-brand-orangered: #5268bb !important;
+
+--color-action-upvote: #91DFF0 !important;
+--color-upvote-background: #5268bb !important;
+--color-upvote-background-hover: #91DFF0 !important;
+--newCommunityTheme-voteText-upvote: #5268bb !important;
+--newCommunityTheme-voteText-upvoteShaded80: #5268bb !important;
+--newCommunityTheme-voteText-upvoteTinted80: #5268bb !important;
+--newRedditTheme-voteText-upvote: #5268bb !important;
+--newRedditTheme-voteText-upvoteShaded80: #5268bb;
+--newRedditTheme-voteText-upvoteTinted80: #5268bb;
+--newCommunityTheme-postIcon: #5268bb !important;
+--newCommunityTheme-postLine: #5268bb !important;
+}
+
+/*number of upvotes color, many instances not using the color  variables above*/
+._1rZYMD_4xY3gRcSS3p8ODO, ._3a2ZHWaih05DgAOtvu6cIo,
+_25IkBM0rRUqWX5ZojEMAFQ, _3ChHiOyYyUkpZ_Nm3ZyM2M
+{color: white !important;}
+
+/*notification badge color*/
+._1-nIsCaWhGBFN-L4ZHnbGp {background: #5268bb !important;}
+
+/* ----------- header icon ----------- */
+
+.snoo-cls-10 {
+fill: #5268bb !important;}
+
+.snoo-cls-4 {
+fill: #5268bb !important; /*they fill each eye seperately for some reason*/
+}
+.snoo-cls-7 {
+fill: #5268bb !important; /* right eye*/
+}
+
+/* ----------- try premium button then icon ----------- */
+
+._10BQ7pjWbeYP63SAPNS8Ts.q_unSaY23rpdd3lDvGZ- {
+background-color: #5268bb !important;}
+  
+.icon._3-m5rOa3loUClNwpCv1uWU {
+color: #5268bb !important;}
+  
+/* ----------- karma icon ----------- */
+
+.icon._2wYneOcJEB6o4mj1NedmsR {
+color: #5268bb !important;}
+
+/* ----------- Home side panel reddit icon ----------- */
+
+._2KqgQ5WzoQRJqjjoznu22o {
+background: url("redd2.png") 0% 0% / 40px 68px !important;
+height: 68px; width: 40px !important;}
+
+/* home header image was https://www.redditstatic.com/desktop2x/img/id-cards/home-banner@2x.png */
+/* remove the following if desired.*/
+.hpxKmfWP2ZiwdKaWpefMn {
+background-image: url("chrome/homebanner.png") !important;}
+}
