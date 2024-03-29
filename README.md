@@ -8,4 +8,8 @@
 ![alt txt](https://github.com/Rifqi2007c/firefox-css/blob/main/side.png)
 
 # extension
-[sideberry](https://addons.mozilla.org/en-US/firefox/addon/sidebery/)
+* [Sideberry](https://addons.mozilla.org/en-US/firefox/addon/sidebery/)
+* [Night Eye](https://addons.mozilla.org/en-US/firefox/addon/night-eye-dark-mode/)
+* [Custom Scrollbars](https://addons.mozilla.org/en-US/firefox/addon/custom-scrollbars/)
+* [GX Mods](https://addons.mozilla.org/en-US/firefox/addon/gx-mods/)
+ - f
