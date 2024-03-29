@@ -7,9 +7,13 @@
 ![alt text](https://github.com/Rifqi2007c/firefox-css/blob/main/Screenshot%202024-03-30%20025951.png)
 ![alt txt](https://github.com/Rifqi2007c/firefox-css/blob/main/side.png)
 
-# extension
+# Extension
 * [Sideberry](https://addons.mozilla.org/en-US/firefox/addon/sidebery/)
 * [Night Eye](https://addons.mozilla.org/en-US/firefox/addon/night-eye-dark-mode/)
 * [Custom Scrollbars](https://addons.mozilla.org/en-US/firefox/addon/custom-scrollbars/)
 * [GX Mods](https://addons.mozilla.org/en-US/firefox/addon/gx-mods/)
-   - f
+   - [LoFi Chill](https://store.gx.me/mods/dd7dj5/lofi-chill/)
+   - [Anime](https://store.gx.me/mods/8x5hvv/anime/)
+
+ #Theme
+ * [Purple Night](https://addons.mozilla.org/en-US/firefox/addon/purple-night-theme/)
