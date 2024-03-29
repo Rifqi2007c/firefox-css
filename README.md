@@ -15,5 +15,5 @@
    - [LoFi Chill](https://store.gx.me/mods/dd7dj5/lofi-chill/)
    - [Anime](https://store.gx.me/mods/8x5hvv/anime/)
 
- #Theme
+ # Theme
  * [Purple Night](https://addons.mozilla.org/en-US/firefox/addon/purple-night-theme/)
