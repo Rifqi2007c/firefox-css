@@ -9,7 +9,6 @@
 
 # Extension
 * [Sideberry](https://addons.mozilla.org/en-US/firefox/addon/sidebery/)
-* [Night Eye](https://addons.mozilla.org/en-US/firefox/addon/night-eye-dark-mode/)
 * [Custom Scrollbars](https://addons.mozilla.org/en-US/firefox/addon/custom-scrollbars/)
 * [GX Mods](https://addons.mozilla.org/en-US/firefox/addon/gx-mods/)
    - [LoFi Chill](https://store.gx.me/mods/dd7dj5/lofi-chill/)
