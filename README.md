@@ -12,4 +12,4 @@
 * [Night Eye](https://addons.mozilla.org/en-US/firefox/addon/night-eye-dark-mode/)
 * [Custom Scrollbars](https://addons.mozilla.org/en-US/firefox/addon/custom-scrollbars/)
 * [GX Mods](https://addons.mozilla.org/en-US/firefox/addon/gx-mods/)
- - f
+   - f
